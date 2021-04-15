@@ -1,0 +1,6 @@
+#Mapping values
+PARENTID=ParentId
+NAME=Name
+BODY=Body
+CONTENTTYPE=ContentType
+DESCRIPTION=Description
