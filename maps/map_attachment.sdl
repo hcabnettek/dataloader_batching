@@ -1,6 +1,6 @@
 #Mapping values
-PARENTID=ParentId
-NAME=Name
-BODY=Body
-CONTENTTYPE=ContentType
-DESCRIPTION=Description
+ParentId=ParentId
+Name=Name
+Body=Body
+ContentType=ContentType
+Description=Description
